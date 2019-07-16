@@ -1,0 +1,17 @@
+#Generated file - don't edit (please)
+#Sun Jun 30 18:45:22 EEST 2019
+ftpserver.user.Stanimir.enableflag=true
+ftpserver.user.admin.userpassword=21232F297A57A5A743894A0E4A801FC3
+ftpserver.user.admin.homedirectory=H\:\\SMB97\\ftpactions\\FTP_HOME_DIRECTORY
+ftpserver.user.Stanimir.homedirectory=H\:\\SMB97\\ftpactions\\FTP_HOME_DIRECTORY
+ftpserver.user.anonymous.writepermission=true
+ftpserver.user.anonymous.idletime=0
+ftpserver.user.anonymous.userpassword=D41D8CD98F00B204E9800998ECF8427E
+ftpserver.user.Stanimir.userpassword=9CF3F9CAC4011D424F018E17F0564AE3
+ftpserver.user.Stanimir.idletime=0
+ftpserver.user.anonymous.homedirectory=H\:\\SMB97\\ftpactions\\FTP_HOME_DIRECTORY
+ftpserver.user.admin.enableflag=true
+ftpserver.user.Stanimir.writepermission=true
+ftpserver.user.admin.writepermission=true
+ftpserver.user.admin.idletime=0
+ftpserver.user.anonymous.enableflag=true
